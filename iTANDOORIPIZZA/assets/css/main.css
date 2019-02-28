@@ -172,12 +172,13 @@
 		box-sizing: border-box;
 	}
 
-	.row:after, .row:before {
-		content: '';
-		display: block;
-		clear: both;
-		height: 0;
-	}
+        .row:after, .row:before {
+            content: '';
+            display: block;
+            clear: both;
+            height: 0;
+            /*background-image: url('images/3.jpg')*/
+        }
 
 	.row.uniform > * > :first-child {
 		margin-top: 0;
@@ -1182,7 +1183,7 @@ a {
 	}
 
 	ul.style1 a {
-		color: #9b9fa5;
+		color: #FF0000;
 	}
 
 		ul.style1 a:hover {
@@ -1203,23 +1204,23 @@ a {
 		padding: 0 0 0.75em 0;
 		font-size: 1.00em;
 		font-weight: 600;
-		color: #474d55;
+		color: #FF0000;
 	}
 
 	ul.style2 .meta {
 		font-size: 0.70em;
-		color: #9b9b9b;
+		color: #FF0000;
 	}
 
 		ul.style2 .meta a {
-			color: #9b9b9b;
+			color: #FF0000;
 		}
 
 	ul.style2 .date {
 		padding: 0 1em 0 0;
 		border-right: 1px solid #e5e5e5;
 		font-size: 0.90em;
-		color: #a2a2a2;
+		color: #FF0000;
 	}
 
 	ul.style2 .comments {
@@ -1228,7 +1229,7 @@ a {
 	}
 
 		ul.style2 .comments a {
-			color: #a2a2a2;
+			color: #FF0000;
 		}
 
 			ul.style2 .comments a:hover {
@@ -1257,7 +1258,7 @@ a {
 			}
 
 		ul.contact a {
-			color: #9b9fa5;
+			color: #FF0000;
 		}
 
 			ul.contact a:hover {
@@ -1363,11 +1364,13 @@ a {
 
 /* Wrappers */
 
-	#header-wrapper {
-		position: relative;
-		/*background: url("../../images/banner.jpg") top center;*/
-		background-size: cover;
-	}
+#header-wrapper {
+    position: relative;
+    /*background: url("../../images/banner.jpg") top center;*/
+    background-size: cover;
+    background: #FFFFFF;
+    /*background-image: url('images/3.jpg');*/
+}
 
         #header-wrapper:before {
             content: '';
@@ -1377,7 +1380,7 @@ a {
             left: 0;
             width: 100%;
             height: 100%;
-            /*background-image: url('images/3.jpg');*/
+            
 		}
 
 		#header-wrapper:after {
@@ -1429,7 +1432,7 @@ a {
 
 		.wrapper-style1 h3 {
 			font-weight: 700;
-			color: #474d55;
+			color: #FF0000;
 		}
 
 	.wrapper-style2 {
@@ -1459,14 +1462,14 @@ a {
 
 		#banner p {
 			font-weight: 300;
-			color: #dadbdd;
+			color: #FF0000;
 		}
 
 /* Footer */
 
 	#footer {
 		position: relative;
-		color: #9b9fa5;
+		color: #FF0000;
 	}
 
 		#footer header h2 {
@@ -1499,7 +1502,7 @@ a {
 		}
 
         #intro .icon {
-            color: #FFF;
+            color: #FF0000;
         }
 
 /* Featured */
@@ -1513,7 +1516,7 @@ a {
 
 	#copyright {
 		text-align: center;
-		color: #61666c;
+		color: #ffffff;
 	}
 
         #copyright span {
@@ -1726,7 +1729,7 @@ a {
                     left: 0;
                     width: 100%;
                     height: 100%;
-                    background-image: url('images/3.jpg');
+                    /*background-image: url('images/3.jpg');*/
                     opacity: .4;
                 }
 
@@ -1736,7 +1739,7 @@ a {
                     -ms-transition: all 0.25s ease-in-out;
                     transition: all 0.25s ease-in-out;
                     color: #FF0000;
-                    color: rgba(255, 255, 255, 0.65);
+                    color: #FF0000;
                     position: relative;
                     display: block;
                     z-index: 20000;

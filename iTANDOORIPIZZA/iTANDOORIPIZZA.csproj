@@ -407,7 +407,9 @@
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="images\banner.jpg" />
+    <Content Include="images\barbecue_Wings.png" />
+    <Content Include="images\chickenwings.jpg" />
+    <Content Include="images\Mint_lassi.jpg" />
     <Content Include="images\pic02.jpg" />
     <Content Include="images\pic03.jpg" />
     <Content Include="images\pic04.jpg" />
@@ -417,11 +419,14 @@
     <Content Include="images\pic08.jpg" />
     <Content Include="images\pic09.jpg" />
     <Content Include="images\pic10.jpg" />
+    <Content Include="images\Sandwich.jpg" />
+    <Content Include="images\Tandoori_Chicken_pizza.jpg" />
     <Content Include="images\U1.jpg" />
     <Content Include="images\U3.jpg" />
     <Content Include="images\U4.jpg" />
     <Content Include="images\U5.jpg" />
     <Content Include="images\U6.jpg" />
+    <Content Include="images\vegetable-pizza.jpg" />
     <Content Include="left-sidebar.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
