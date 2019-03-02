@@ -1655,8 +1655,10 @@ a {
                         height: 100%;
                         /*background-image: url("images/bg01.png");*/
                         /*background-image: url('images/Tandoori Pizza.jpeg');*/
-                        background-image: url('images/3.jpg');
+                        /*background-image: url('images/3.jpg');
+                        background-repeat: space;*/
                         opacity: .4;
+                        width:100%;
                     }
 
                 #header h1 {
@@ -1852,7 +1854,7 @@ a {
 
 				#featured header p {
 					padding-top: 0.50em;
-					font-size: 1.8em;
+					font-size: 1.2em;
 				}
 
 			#featured .button {
