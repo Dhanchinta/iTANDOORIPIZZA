@@ -342,6 +342,7 @@
     <Content Include="assets\css\ie9.css" />
     <Content Include="assets\css\images\3.jpg" />
     <Content Include="assets\css\images\bg01.png" />
+    <Content Include="images\collageMarronPizza.png" />
     <Content Include="assets\css\images\header-wrapper-shadow.svg" />
     <Content Include="assets\css\images\Tandoori Pizza.jpeg" />
     <Content Include="assets\css\images\toggle.svg" />
@@ -362,8 +363,15 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="images\barbecue_Wings.png" />
+    <Content Include="images\batch_Main.jpg" />
     <Content Include="images\chickenwings.jpg" />
+    <Content Include="images\collagePerfect2.png" />
+    <Content Include="images\collageU5.png" />
+    <Content Include="images\collagewhitpizza.png" />
     <Content Include="images\contact.jpg" />
+    <Content Include="images\F1.png" />
+    <Content Include="images\french-pastries-indian-crop.jpg" />
+    <Content Include="images\Main.jpg" />
     <Content Include="images\menu.jpg" />
     <Content Include="images\Mint_lassi.jpg" />
     <Content Include="images\pic02.jpg" />
@@ -375,6 +383,8 @@
     <Content Include="images\pic08.jpg" />
     <Content Include="images\pic09.jpg" />
     <Content Include="images\pic10.jpg" />
+    <Content Include="images\Pizzacollage.png" />
+    <Content Include="images\Puff.jpg" />
     <Content Include="images\Sandwich.jpg" />
     <Content Include="images\Tandoori_Chicken_pizza.jpg" />
     <Content Include="images\U1.jpg" />

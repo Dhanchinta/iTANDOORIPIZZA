@@ -1274,7 +1274,7 @@ a {
 
 			ul.contact li span:before {
 				display: inline-block;
-				background: #98c37c;
+				background: #FF0000;
 				width: 43px;
 				height: 43px;
 				line-height: 43px;
@@ -1322,7 +1322,7 @@ a {
 			position: absolute;
 			top: -3em;
 			left: 0;
-			border-bottom: solid 7em #98c37c;
+			border-bottom: solid 7em #FF0000;
 			border-left: solid 4.5em transparent;
 			border-right: solid 4.5em transparent;
 		}
@@ -1337,7 +1337,7 @@ a {
 		.pennant .icon {
 			position: relative;
 			z-index: 2;
-			color: #FF0000;
+			color: #FFF;
 		}
 
 /* Icons */
@@ -2326,5 +2326,26 @@ a {
 					line-height: 2em;
 					font-size: 0.90em;
 				}
+
+/*Dhana Addings to populate text on image*/
+        .PizzaScrolling {
+            position: relative;
+            font-weight: bold;
+            font-family: Impact;
+            text-align: center;
+            font-size: 30px;
+        }
+
+        /* Bottom right text */
+        .text-block {
+            position: absolute;
+            bottom: 40px;
+            right: 40px;
+            color: black;
+            background-color: Red;
+            opacity: 0.7;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
 
 	}
