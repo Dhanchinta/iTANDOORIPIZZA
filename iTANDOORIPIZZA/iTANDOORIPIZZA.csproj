@@ -385,6 +385,7 @@
     <Content Include="images\pic10.jpg" />
     <Content Include="images\Pizzacollage.png" />
     <Content Include="images\Puff.jpg" />
+    <Content Include="images\QRCode.png" />
     <Content Include="images\Sandwich.jpg" />
     <Content Include="images\Tandoori_Chicken_pizza.jpg" />
     <Content Include="images\U1.jpg" />
@@ -434,7 +435,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Default\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
-    <Content Include="Views\Default\Specials.cshtml" />
+    <Content Include="Views\Default\Menu.cshtml" />
     <Content Include="Views\Default\ContactUs.cshtml" />
     <Content Include="Views\Default\AboutUs.cshtml" />
     <None Include="Web.Debug.config">
