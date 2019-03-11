@@ -1337,7 +1337,7 @@ a {
 		.pennant .icon {
 			position: relative;
 			z-index: 2;
-			color: #FFF;
+			color: #fff;
 		}
 
 /* Icons */
@@ -1483,6 +1483,47 @@ a {
 		font-weight: 700;
 		color: #FF0000;
 	}
+#element1 {
+    float: left;
+    position: relative;
+    left: 38%;
+}
+
+#element2 {
+    position: relative;
+    left: 41%;
+    float: left;
+    
+}
+#element3 {
+    position: relative;
+    left: 44%;
+    float: left;
+}
+#element4 {
+    position: relative;
+    left: 46%;
+    float: left;
+}
+.fa {
+    position: relative;
+    left: 48%;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    display: inline-block;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
 
 /* Intro */
 
@@ -1502,7 +1543,7 @@ a {
 		}
 
         #intro .icon {
-            color: #FF0000;
+            color: #FFf;
         }
 
 /* Featured */
