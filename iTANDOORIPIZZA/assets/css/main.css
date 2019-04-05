@@ -1432,7 +1432,7 @@ a {
 
 		.wrapper-style1 h3 {
 			font-weight: 700;
-			color: #FF0000;
+			color: #FFF;
 		}
 
 	.wrapper-style2 {
@@ -1462,14 +1462,14 @@ a {
 
 		#banner p {
 			font-weight: 300;
-			color: #FF0000;
+			color: #FFF;
 		}
 
 /* Footer */
 
 	#footer {
 		position: relative;
-		color: #FF0000;
+		color: #FFFFFF;
 	}
 
 		#footer header h2 {
@@ -1669,6 +1669,11 @@ a {
                     line-height: 1em;
                     color: #FF0000;
 
+                    
+                }
+                #header p {
+                    
+                    color: #FF0000;
                     
                 }
 
